@@ -30,7 +30,8 @@ Temp/tempFile.res
 
 # Visual Studio cache directory
 .vs/
-
+.vscode
+ParkGame*
 # Gradle cache directory
 .gradle/
 
